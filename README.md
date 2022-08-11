@@ -101,7 +101,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 # `👑Colaboradores👑`
 
 [![NeKosmic-NK](https://github.com/NeKosmic-NK.png?size=100)](https://github.com/NeKosmic-NK) 
-[![Misaelsharkbot](https://github.com/
+[![Misaelsharkbot](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
 [![TIO CARLOS](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
   [![kia](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
 
