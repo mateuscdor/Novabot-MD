@@ -45,16 +45,16 @@
    
 ## 𝙲𝚕𝚘𝚗𝚊 𝚎𝚕 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘 👇
 
-- [aqui](https://github.com/elrebelde21/Novabot-MD-/fork)
+- [aqui](https://github.com/elrebelde21/Novabot-MD/fork)
 
 ## `𝚀𝚁 𝚜𝚎𝚜𝚜𝚒𝚘𝚗`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `𝙰𝚓𝚞𝚜𝚝𝚎`
 
-- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/elrebelde21/Novabot-MD-/blob/master/settings.js#L58)
-- CAMBIAR NOMBRE DE PROPIETARIO [aqui](https://github.com/elrebelde21/Novabot-MD-/blob/master/settings.js#L59)
-- CAMBIAR NOMBRE DEL BOT [aqui](https://github.com/elrebelde21/Novabot-MD-/blob/master/settings.js#L67)
+- CAMBIAR NÚMERO DE PROPIETARIO [aqui](https://github.com/elrebelde21/Novabot-MD/blob/master/settings.js#L58)
+- CAMBIAR NOMBRE DE PROPIETARIO [aqui](https://github.com/elrebelde21/Novabot-MD/blob/master/settings.js#L59)
+- CAMBIAR NOMBRE DEL BOT [aqui](https://github.com/elrebelde21/Novabot-MD/blob/master/settings.js#L67)
 
 ## 𝙰𝚌𝚝𝚒𝚟𝚊 𝚎𝚕 𝚑𝚎𝚛𝚘𝚔𝚞
 𝙿𝚊𝚛𝚊 𝚞𝚜𝚞𝚊𝚛𝚒𝚘 𝚍𝚎 𝚑𝚎𝚛𝚘𝚔𝚞
@@ -87,7 +87,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/elrebelde21/Novabot-MD-
+git clone https://github.com/elrebelde21/Novabot-MD
 cd Novabot-MD
 yarn
 npm start
