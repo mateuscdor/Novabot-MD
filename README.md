@@ -10,10 +10,11 @@
 <a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
-<a href="http://wa.me/56977774748" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/34623442554" target="blank"><img src="https://img.shields.io/badge/NeKosmic_NK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/51935116539" target="blank"><img src="https://img.shields.io/badge/Misael-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="http://wa.me/5218992059110" target="blank"><img src="https://img.shields.io/badge/Tío Carlos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/5493865392125" target="blank"><img src="https://img.shields.io/badge/desarrollado-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > NO BOT
   
@@ -100,9 +101,10 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 # `👑Colaboradores👑`
 
 [![NeKosmic-NK](https://github.com/NeKosmic-NK.png?size=100)](https://github.com/NeKosmic-NK) 
-[![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)  
-  [![TIO CARLOS](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
-  
+[![Misaelsharkbot](https://github.com/
+[![TIO CARLOS](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
+  [![kia](https://github.com/Bottiocarlos.png?size=100)](https://github.com/Bottiocarlos)
+
 # `👑Creador del BOT👑`
   
   [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) 
