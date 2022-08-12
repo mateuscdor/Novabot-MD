@@ -20,7 +20,7 @@
   "author": "Xeon",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "git+https://github.com/neoxr/Bails.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@shineiichijo/marika": "^2.0.2",
